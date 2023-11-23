@@ -1,4 +1,4 @@
-module github.com/tanapon395/sa-66-example
+module github.com/Kami0rn/sa-66-exampleSE
 
 go 1.19
 
